@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="64399" started-at="2018-06-20T07:21:43Z" finished-at="2018-06-20T07:22:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="64399" started-at="2018-06-20T07:21:43Z" finished-at="2018-06-20T07:22:47Z">
+      <class name="Twitter_API.CreateAndDelete">
+        <test-method status="PASS" signature="CreateAnddelete()[pri:0, instance:Twitter_API.CreateAndDelete@6eebc39e]" name="CreateAnddelete" duration-ms="64228" started-at="2018-06-20T12:51:43Z" finished-at="2018-06-20T12:52:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateAnddelete -->
+      </class> <!-- Twitter_API.CreateAndDelete -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
